@@ -1,6 +1,5 @@
 # bypass403
 
-License: MIT
 
 `bypass403` generates path-based 403/401 bypass payloads for a given keyword (e.g. `admin`) — slash tricks, case variation, extension appending, null byte/CRLF, whitespace, URL encoding, double-encoding, unicode homoglyphs, overlong UTF-8, Tomcat semicolon tricks, and more. Payloads are meant to be fed directly into `curl`, `ffuf`, `httpx`, or any HTTP client to test against a target that returns 403 on the plain path.
 
