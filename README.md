@@ -63,7 +63,7 @@ All path-only techniques — no headers (`X-Original-URL`, `X-Forwarded-For`, et
 ## Installation
 
 ```
-$ git clone https://github.com/YOUR_USERNAME/bypass403.git
+$ git clone https://github.com/moh3n355/bypass403.git
 $ cd bypass403
 $ python3 bypass403.py -h
 ```
